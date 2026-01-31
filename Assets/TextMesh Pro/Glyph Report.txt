@@ -1,0 +1,12 @@
+Font: Dela Gothic One  Style: Regular
+Point Size: 43   SP/PD Ratio: 11.6%
+
+Characters included: 7088/7088
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
